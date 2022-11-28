@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/17655680/204353364-38f8637c-5efe-4b20-b0e4-1fef4ed7b47b.png)
+
 ![](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=c%2B%2B) 
 ![](https://img.shields.io/badge/-C-333333?style=flat-square&logo=C)
 ![](https://img.shields.io/badge/-Qt-333333?style=flat-square&logo=Qt)
